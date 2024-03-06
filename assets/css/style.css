@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* HEADER STYLING */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -32,23 +34,29 @@ body {
     font-size: 20px;
 }
 
-/* .header div ul {
+.header div ul {
     list-style-type: none;
-} */
+}
 
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* LINK STYLING */
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* PARAGRAPH STYLING */
+
 p {
     font-size: 16px;
 }
+
+/* BACKGROUND STYLING */
 
 .hero {
     height: 800px;
@@ -58,6 +66,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* ASIDE STYLING */
 
 .float-left {
     float: left;
@@ -102,6 +112,8 @@ p {
     max-width: 150px;
 }
 
+/* ARTICLE STYLING */
+
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,6 +131,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* FOOTER STYLING */
 
 .footer {
     padding: 30px;
