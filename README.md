@@ -1,4 +1,4 @@
-# Assignment1 - Horiseon Refactor
+# Assignment1 - Horiseon Code Refactor
 
 ## Description
 
@@ -8,7 +8,7 @@ As requested by the marketing agency, the codebase for Horiseon was updated to m
 
 Below is a photo of the Mock Up Webpage.
 
-md [Photo of the Mock Up Webpage](assets/images/Mock%20Up%20Webpage.png)
+![Photo of the Mock Up Webpage](assets/images/Mock%20Up%20Webpage.png)
 
 ## Changes Made
 
@@ -19,6 +19,7 @@ On the 'style.css' file, redundant styles were condensed and labeled for ease wh
 ## Links
 
 [GitHub Repository](https://github.com/NatalieClinton/Assignment1)
+
 [Deployed Application](https://natalieclinton.github.io/Assignment1/)
 
 
