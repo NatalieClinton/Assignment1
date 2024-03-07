@@ -1,4 +1,4 @@
-# Assignment1 - Horiseon Code Refactor
+# Assignment1 - The Horiseon Code Refactor
 
 ## Description
 

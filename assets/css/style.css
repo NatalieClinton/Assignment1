@@ -67,7 +67,7 @@ p {
     background-position: center;
 }
 
-/* ASIDE STYLING */
+/* ASIDE STYLING (Note: Benefit lead, brand and cost styles were consolidated for ease of reading/editing) */
 
 .float-left {
     float: left;
@@ -112,7 +112,7 @@ p {
     max-width: 150px;
 }
 
-/* ARTICLE STYLING */
+/* ARTICLE STYLING (Note: Search engine optimization, online reputation management, and social media marketing styles were consolidated for ease of reading/editing)*/
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
